@@ -5,7 +5,7 @@ This project explores the realities of entrepreneurship beyond the glamour. Thro
 
 
 ## Project Discussion Video
-Industry Professionals Interview by Project Team Members : [Video Link](https://drive.google.com/file/d/12ysZGruiuonsULCSPKRF3LrH3JY_ds8u/view?usp=sharing)
+Industry Professionals Interview by Project Team Members : [Video Link](https://youtu.be/sN7PkaV70bo))
 
 ## Objectives
 - Examine the practical challenges faced by entrepreneurs.
