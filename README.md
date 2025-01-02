@@ -52,5 +52,3 @@ We extend our gratitude to **IIT Madras** and the **SPG Team** for enabling this
 - Medium  
 
 ---
-
-**This README provides a complete overview of EntrepreneuREAL: The Startup Odyssey, outlining its objectives, methods, findings, and recommendations to help aspiring entrepreneurs understand the complexities of startup ecosystems.**
